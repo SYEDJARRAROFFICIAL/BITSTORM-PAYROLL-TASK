@@ -1,0 +1,42 @@
+{
+  "name": "payroll-management-system",
+  "version": "1.0.0",
+  "description": "A payroll management system to manage employees and calculate salaries.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.3.0"
+  },
+  "keywords": [
+    "payroll",
+    "management",
+    "employees",
+    "salaries"
+  ],
+  "author": "Syed Muhammad Jarrar Haider",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
